@@ -8,13 +8,15 @@ https://www.adoxx.org/live/download-15
 <br>
 ## File Description 
 
-.asc    adoScript 
+.asc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;adoScript 
 
-.adl    modeling file 
+.adl&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;modeling file 
 
-.abl    library file 
+.abl&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;library file 
 
-.js     node js, json 
+.js&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;node js, javascript 
+
+.ino&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;arduino file
 
 ## Adoxx Server
 
