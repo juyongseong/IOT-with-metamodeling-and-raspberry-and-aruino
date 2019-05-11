@@ -70,7 +70,7 @@ https://www.adoxx.org/live/download-15
  - 공유기 포트 포워딩 또는 서버 노트북에서 포트 1xxxx에대해서 방화벽 오픈 또는 개인 네트워크 빼고 방화벽 승인
 
 
-![AIspeakerRaspberryPi](./robotdesign/AispeakerRaspberryPi.jpg)
+![AIspeakerRaspberryPi](./robotdesign/AIspeakerRaspberryPi.jpg)
 ## Ai speaker
 
 1. 라즈베리파이 세팅
