@@ -1,28 +1,12 @@
 ### IOT-with-metamodeling-and-raspberry-and-aruino
 Develops IOT using a metamodeling
 
-<div style="text-align:center;">
-    <span style=" font: italic bold 5em/1.5em Georgia, serif ; color: gray;">404</span>
-    <br>
-    <span style=" font: italic bold 3em/1em Georgia, serif ; color: gray;"> </span>
-    
-    <span style=" font: normal bold 2em/1em sans-serif, serif ; color: black;">PAGE NOT FOUND</span>
-    <br>
-    <span style=" font: normal bold 1em/1em Georgia, serif ; color: black;"> </span>
-    
-    <span style=" font: normal lighter 1em/1em cursive, serif ;">Oops! It looks like you're lost..</span>
-    <br>
-    <span style=" font: normal bold 1em/1em Georgia, serif ;">  </span>
-    
-    <img src="/assets/images/404.jpg" alt="404 not found image"/>
-</div>
-
 The above program requires two laptops (servers, clients) and Internet modem and a raspberry pi with speaker and aduinos (robot arm, automobile).
 
 install metamodeling program in cliend laptops with extended http protocols.
 https://www.adoxx.org/live/download-15
-
-File Description 
+<br>
+##File Description 
 
 .asc    adoScript 
 
@@ -32,7 +16,7 @@ File Description
 
 .js     node js, json 
 
-Adoxx Server
+##Adoxx Server
 
 1.node js 설치
 
@@ -84,7 +68,7 @@ req.query.id 가 adoxx
 
 
 
-Adoxx Client
+##Adoxx Client
 
 1.Adoxx Development Toolkit 실행	 (Development Library import 후 User 추가하기위해)
 
@@ -105,7 +89,7 @@ Library, Dynamic Library, Static Library 이름 변경후 저장
 
 
 
-에러사항
+##에러사항
 
 웹에서 주소에 192.168.0.20:1xxxx/?id=adoxx 쳤을때 idle가 안뜸
 
@@ -119,14 +103,11 @@ client 노트북에서 idle가 안뜸
 
 
 
-Ai speaker
+##Ai speaker
 
-KT API Link 가입 및 서비스 신청
-
-라즈베리파이 세팅
-
-https://apilink.kt.co.kr/console/gigagenie/console/myservice
-
+1. 라즈베리파이 세팅
+2. kt server open API 사용법 공부
+3. nodejs로 
 
 
 
