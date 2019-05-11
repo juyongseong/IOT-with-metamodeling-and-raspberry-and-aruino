@@ -1,12 +1,12 @@
 ### IOT-with-metamodeling-and-raspberry-and-aruino
-Develops IOT using a metamodeling
+<h2>Develops IOT using a metamodeling</h2>
 
 The above program requires two laptops (servers, clients) and Internet modem and a raspberry pi with speaker and aduinos (robot arm, automobile).
 
 install metamodeling program in cliend laptops with extended http protocols.
 https://www.adoxx.org/live/download-15
 <br>
-##File Description 
+## File Description 
 
 .asc    adoScript 
 
@@ -16,7 +16,7 @@ https://www.adoxx.org/live/download-15
 
 .js     node js, json 
 
-##Adoxx Server
+## Adoxx Server
 
 1.node js 설치
 
@@ -68,7 +68,7 @@ req.query.id 가 adoxx
 
 
 
-##Adoxx Client
+## Adoxx Client
 
 1.Adoxx Development Toolkit 실행	 (Development Library import 후 User 추가하기위해)
 
@@ -89,7 +89,7 @@ Library, Dynamic Library, Static Library 이름 변경후 저장
 
 
 
-##에러사항
+## 에러사항
 
 웹에서 주소에 192.168.0.20:1xxxx/?id=adoxx 쳤을때 idle가 안뜸
 
@@ -103,7 +103,7 @@ client 노트북에서 idle가 안뜸
 
 
 
-##Ai speaker
+## Ai speaker
 
 1. 라즈베리파이 세팅
 2. kt server open API 사용법 공부
