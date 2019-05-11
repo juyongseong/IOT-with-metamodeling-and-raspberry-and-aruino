@@ -73,9 +73,17 @@ https://www.adoxx.org/live/download-15
 ![AIspeakerRaspberryPi](./robotdesign/AIspeakerRaspberryPi.jpg)
 ## Ai speaker
 
+1. 라즈베리파이 조립
+ - 케이스, 커버, 스피커, 아케이드 스위치, 마이크보드 부착
+1. sd카드에 운영체제 설치
 1. 라즈베리파이 세팅
+ - javaScript 
+ - python3
 1. kt server open API 사용법 공부
-1. nodejs로 외부인터넷과 내부인터넷으로 
+1. nodejs 호환 통신
+ - 내부인터넷
+ - 외부인터넷
+ - adoxx
 
 
 
