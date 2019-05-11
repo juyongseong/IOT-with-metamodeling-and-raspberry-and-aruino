@@ -19,16 +19,11 @@ https://www.adoxx.org/live/download-15
 ## Adoxx Server
 
 1.node js 설치
-
-https://nodejs.org/ko/
-
-2.js파일 실행
-
-cmd	
-
-node hserver.js 실행하기위한 필수 module 설치
-
-Error: Cannot find module 'express'
+ - https://nodejs.org/ko/
+1.js파일 실행
+ - cmd	
+ - node hserver.js 실행하기위한 필수 module 설치
+ - Error: Cannot find module 'express'
 
 npm install express
 
