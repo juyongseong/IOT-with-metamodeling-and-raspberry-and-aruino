@@ -1,5 +1,21 @@
-# IOT-with-metamodeling-and-raspberry-and-aruino
+### IOT-with-metamodeling-and-raspberry-and-aruino
 Develops IOT using a metamodeling
+
+<div style="text-align:center;">
+    <span style=" font: italic bold 5em/1.5em Georgia, serif ; color: gray;">404</span>
+    <br>
+    <span style=" font: italic bold 3em/1em Georgia, serif ; color: gray;"> </span>
+    
+    <span style=" font: normal bold 2em/1em sans-serif, serif ; color: black;">PAGE NOT FOUND</span>
+    <br>
+    <span style=" font: normal bold 1em/1em Georgia, serif ; color: black;"> </span>
+    
+    <span style=" font: normal lighter 1em/1em cursive, serif ;">Oops! It looks like you're lost..</span>
+    <br>
+    <span style=" font: normal bold 1em/1em Georgia, serif ;">  </span>
+    
+    <img src="/assets/images/404.jpg" alt="404 not found image"/>
+</div>
 
 The above program requires two laptops (servers, clients) and Internet modem and a raspberry pi with speaker and aduinos (robot arm, automobile).
 
