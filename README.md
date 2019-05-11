@@ -46,7 +46,7 @@ https://www.adoxx.org/live/download-15
 1.방화벽 풀기, 1xxxx포트에 대해서 오픈
 
 
-![AdoxxModelling](./robotdesign/AdoxxModelling.jpg)
+![AdoxxModelling](./robotdesign/AdoxxModelling.png)
 ## Adoxx Client
 
 1.Adoxx Development Toolkit 실행	 (Development Library import 후 User 추가하기위해)
