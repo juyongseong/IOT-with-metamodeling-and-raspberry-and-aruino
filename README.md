@@ -6,6 +6,11 @@ The above program requires two laptops (servers, clients) and Internet modem and
 install metamodeling program in cliend laptops with extended http protocols.
 https://www.adoxx.org/live/download-15
 
+File Description 
+.asc    adoScript 
+.adl    modeling file 
+.abl    library file 
+.js     node js, json 
 
 Adoxx Server
 
