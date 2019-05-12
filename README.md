@@ -84,6 +84,10 @@ https://www.adoxx.org/live/download-15
  - 내부인터넷
  - 외부인터넷
  - adoxx
-
+1. adoxx와 호환문제 해결
+ - hserver.js에서 오브젝트를 스트링으로 바꿈
+ - 아두이노에게 데이터를 넘겨주는 방식 2가지 존재
+  - hserver1.js : 모든 동작을 한번에 넘겨줌
+  - hserver2.js : 한동작씩 나눠서 
 
 
