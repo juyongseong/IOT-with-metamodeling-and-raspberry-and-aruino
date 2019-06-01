@@ -3,6 +3,8 @@
 
 The above program requires two laptops (servers, clients) and Internet modem and a raspberry pi with speaker and aduinos (robot arm, automobile).
 
+![AdoxxModelling](./robotdesign/KakaoTalk_20190531_171827672.jpg)
+
 install metamodeling program in cliend laptops with extended http protocols.
 https://www.adoxx.org/live/download-15
 <br>
